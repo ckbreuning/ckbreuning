@@ -70,7 +70,7 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `03` — Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Code tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="HTML, CSS, JavaScript, PHP" /><img src="./assets/mariadb.svg" width="48" height="48" alt="MariaDB" hspace="6" /><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
   <br />
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" alt="Design tools" />
 </p>
@@ -82,8 +82,7 @@ Then I turn that into designs that look intentional and code that holds up.
 | | Project | Category | What I did |
 |:-:|---|---|---|
 | 🥋 | **Hjørring Jiu-Jitsu Klub** | UX/UI · Frontend | Full case: sitemap and affinity diagrams, wireframes, UI design, think-aloud testing, then a semantic HTML/CSS build |
-| 🎮 | **CS2 Team Draft** | Frontend · PHP/MySQL | A draft game for building Counter-Strike 2 rosters, with an admin panel for players, orgs and teams |
-| 🧱 | **[ckbreuning_2026_template](https://github.com/ckbreuning/ckbreuning_2026_template)** | Frontend | My clean starter for every new project: HTML, a CSS token system and a dark/light mode toggle |
+| 🎮 | **CS2 Team Draft** | Frontend · PHP/MariaDB | A draft game for building Counter-Strike 2 rosters, with an admin panel for players, orgs and teams |
 | 🗂️ | **Personal Portfolio** | UX/UI · Graphic | Content-first process from moodboard and style guide to a hi-fi interactive prototype |
 
 <!-- Tip: link project names to their repos or case pages when they're public -->
@@ -116,8 +115,7 @@ Then I turn that into designs that look intentional and code that holds up.
 I'm open to **internships, freelance projects and collaborations**. I'd especially like to work with creative agencies and esports and tech teams.
 
 <p align="center">
-  <!-- Replace the # links with your portfolio and LinkedIn URLs -->
-  <a href="https://www.ckbreuning.com"><img src="https://img.shields.io/badge/Portfolio-2D9CDB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.ckbreuning.com"><img src="https://img.shields.io/badge/Portfolio-1ADB9E?style=for-the-badge&logo=googlechrome&logoColor=060818" /></a>
   <a href="https://www.linkedin.com/in/christian-breuning"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ckbreuning@gmail.com"><img src="https://img.shields.io/badge/Email-E8C840?style=for-the-badge&logo=gmail&logoColor=060818" /></a>
 </p>
