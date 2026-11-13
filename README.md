@@ -70,22 +70,23 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `03` — Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="HTML, CSS, JavaScript, PHP" /><img src="./assets/mariadb.svg" width="48" height="48" alt="MariaDB" hspace="6" /><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,mysql,git,github,vscode&theme=dark" alt="Code tools" />
   <br />
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" alt="Design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Photoshop, Illustrator" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" width="48" height="48" hspace="6" alt="Affinity by Canva" />
 </p>
 
 <br />
 
 ## `04` — Selected work
 
-| | Project | Category | What I did |
+| | Project | Stack | About |
 |:-:|---|---|---|
-| 🥋 | **Hjørring Jiu-Jitsu Klub** | UX/UI · Frontend | Full case: sitemap and affinity diagrams, wireframes, UI design, think-aloud testing, then a semantic HTML/CSS build |
-| 🎮 | **CS2 Team Draft** | Frontend · PHP/MariaDB | A draft game for building Counter-Strike 2 rosters, with an admin panel for players, orgs and teams |
-| 🗂️ | **Personal Portfolio** | UX/UI · Graphic | Content-first process from moodboard and style guide to a hi-fi interactive prototype |
+| 🥋 | **[Hjørring Jiu-Jitsu Klub](https://github.com/ckbreuning/hjoerring-jiu-jitsu-klub)** | HTML · CSS | Club website redesign. Sitemap and affinity diagrams, wireframes, UI design and think-aloud tests, then built in semantic HTML/CSS |
+| 🌿 | **[Lene Stegenborg](https://github.com/ckbreuning/lene-stegenborg)** | HTML · CSS · JS | Redesign for a self-employed coach and therapist, with clearer navigation, a better structure for her services and more readable layouts |
+| 🗂️ | **[Portfolio](https://github.com/ckbreuning/portfolio)** | HTML · CSS | My own portfolio, built content-first from a moodboard and style guide through a hi-fi prototype to code |
+| 🟢 | **[SGL](https://github.com/ckbreuning/sgl)** | Vue | <!-- TODO: one line about the project --> |
+| 🐘 | **[Valgfag](https://github.com/ckbreuning/valgfag)** | PHP | <!-- TODO: one line about the project --> |
 
-<!-- Tip: link project names to their repos or case pages when they're public -->
 
 <br />
 
