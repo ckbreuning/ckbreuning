@@ -67,9 +67,13 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `03` — Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,mysql,git,github,vscode&theme=dark" alt="Code tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,php,wordpress,mysql,nodejs,npm&theme=dark" alt="HTML, CSS, JavaScript, Vue, Vite, PHP, WordPress, MySQL, Node.js, npm" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code" />
   <br />
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Photoshop, Illustrator" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" width="48" height="48" hspace="6" alt="Affinity by Canva" />
+  <br />
+  <sub>Also: FigJam · Local (WordPress dev)</sub>
 </p>
 
 <br />
