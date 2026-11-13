@@ -66,6 +66,20 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
 
+      # Lighthouse scores for your live sites (script in .github/scripts/lighthouse.mjs)
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Lighthouse scores
+        continue-on-error: true
+        run: node .github/scripts/lighthouse.mjs
+
+      - name: Update "last updated" date
+        run: |
+          DATE=$(TZ=Europe/Copenhagen date '+%-d %b %Y')
+          sed -i "s|<!-- LAST-UPDATED -->.*<!-- /LAST-UPDATED -->|<!-- LAST-UPDATED -->Last updated $DATE<!-- /LAST-UPDATED -->|" README.md
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
