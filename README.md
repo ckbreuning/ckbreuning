@@ -67,9 +67,9 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `03` — Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,php,wordpress,mysql,nodejs&theme=dark" alt="HTML, CSS, JavaScript, Vue, Vite, PHP, WordPress, MySQL, Node.js" /><img src="./assets/local.svg" width="48" height="48" hspace="4" alt="Local by Flywheel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,pinia,vite,php,wordpress,mysql&theme=dark" alt="HTML, CSS, JavaScript, jQuery, Vue, Pinia, Vite, PHP, WordPress, MySQL" /><img src="./assets/local.svg" width="48" height="48" hspace="4" alt="Local by Flywheel" />
   <br />
-  <img src="https://skillicons.dev/icons?i=npm,git,github,githubactions,vscode,figma,ps,ai&theme=dark" alt="npm, Git, GitHub, GitHub Actions, VS Code, Figma, Photoshop, Illustrator" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" width="48" height="48" hspace="4" alt="Affinity by Canva" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,git,github,githubactions,vscode&theme=dark" alt="Node.js, npm, Git, GitHub, GitHub Actions, VS Code" /><img src="./assets/filezilla.svg" width="48" height="48" hspace="4" alt="FileZilla" /><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Photoshop, Illustrator" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" width="48" height="48" hspace="4" alt="Affinity by Canva" />
   <br />
   <sub>Also: FigJam</sub>
 </p>
