@@ -1,12 +1,11 @@
-# Save as .github/workflows/cards.yml in your ckbreuning/ckbreuning repo.
-# Builds the stats cards in your portfolio colours once a day and saves them in the repo,
-# so they never depend on the overloaded public stats server.
 name: Update README cards
 
 on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
