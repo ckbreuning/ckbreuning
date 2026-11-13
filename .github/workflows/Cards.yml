@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write
 
+# GRS_TOKEN is a personal access token saved under Settings -> Secrets and variables -> Actions.
+# The built-in GITHUB_TOKEN cannot read your contribution history, which made every stat show 0.
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,9 +23,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GRS_TOKEN }}
 
       # valgfag is excluded because the full WordPress core in it would swamp the language stats
       - name: Generate top languages card
@@ -31,7 +34,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&exclude_repo=valgfag&hide_border=true&bg_color=060818&title_color=1ADB9E&text_color=E8EDF5
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GRS_TOKEN }}
 
       - name: Commit cards
         run: |
