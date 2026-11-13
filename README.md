@@ -88,9 +88,9 @@ Then I turn that into designs that look intentional and code that holds up.
 #### Latest from [ckbreuning.com](https://www.ckbreuning.com/work/)
 <!-- BLOG-POST-LIST:START -->
 
-- [**SGL**](https://www.ckbreuning.com/work/supernova-gaming-league/) · A results site for Supernova Gaming League, the Counter-Strike tournament organiser I co-founded in 2022. Buil...
-- [**Lene Stegenborg**](https://www.ckbreuning.com/work/lene-stegenborg/) · A redesign of the website for independent coach Lene Stegenborg, built around what users need to trust a pract...
-- [**Hjørring Jiu-Jitsu Klub**](https://www.ckbreuning.com/work/hjorring-jiu-jitsu-klub/) · A full redesign for Denmark’s oldest jiu-jitsu club, from user interviews to a tested, coded website. I built...
+- [**SGL**](https://www.ckbreuning.com/work/supernova-gaming-league/) · A results site for Supernova Gaming League, the Counter-Strike tournament organiser I co-founded in 2022.
+- [**Lene Stegenborg**](https://www.ckbreuning.com/work/lene-stegenborg/) · A redesign of the website for independent coach Lene Stegenborg, built around what users need to trust a practitioner.
+- [**Hjørring Jiu-Jitsu Klub**](https://www.ckbreuning.com/work/hjorring-jiu-jitsu-klub/) · A full redesign for Denmark’s oldest jiu-jitsu club, from user interviews to a tested, coded website.
 <!-- BLOG-POST-LIST:END -->
 
 <br />
