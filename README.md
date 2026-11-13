@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Christian%20👋&fontSize=40" />
+</p>
 
-<!--
-**ckbreuning/ckbreuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Developer;Builder+of+things;Always+learning&center=true&width=400" />
+</p>
 
-Here are some ideas to get you started:
+### About me
+- 🔭 Currently working on **...**
+- 🌱 Learning **...**
+- 📫 Reach me at **...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,linux,docker" />
+</p>
+
+### Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ckbreuning&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckbreuning&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+![snake](https://raw.githubusercontent.com/ckbreuning/ckbreuning/output/github-snake-dark.svg)
