@@ -113,10 +113,9 @@ Then I turn that into designs that look intentional and code that holds up.
 I'm open to **internships, freelance projects, and collaborations**. I'd especially like to work with creative agencies and esports and tech teams.
 
 <p align="center">
-  <!-- Replace the # links with your real profiles -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2D9CDB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-5DCAA5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.ckbreuning.com"><img src="https://img.shields.io/badge/Portfolio-2D9CDB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/christian-breuning"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="ckbreuning@gmail.com"><img src="https://img.shields.io/badge/Email-5DCAA5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
