@@ -41,11 +41,34 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GRS_TOKEN }}
 
+      # 3D version of your contribution calendar, in your portfolio colours (settings in .github/profile-3d.json)
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GRS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
+
+      # Pulls your newest cases from ckbreuning.com into the README.
+      # continue-on-error: if the site is down, the cards still get updated.
+      - name: Latest cases from ckbreuning.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
+        with:
+          feed_list: "https://www.ckbreuning.com/work/feed/"
+          max_post_count: 4
+          disable_sort: true
+          template: "$newline- [**$title**]($url) · $description"
+          description_max_length: 110
+          tag_post_pre_newline: true
+          enable_keepalive: false
+          skip_commit: true
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg profile-3d-contrib/*.svg README.md
           git commit -m "Update README cards" || exit 0
           # Get any commits you pushed while this was running, then push on top of them
           git pull --rebase origin main
