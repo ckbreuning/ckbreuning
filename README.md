@@ -43,19 +43,19 @@ Then I turn that into designs that look intentional and code that holds up.
   <tr>
     <td width="33%" valign="top">
       <sub><code>01</code></sub><br />
-      <b>&lt;Frontend Developer/&gt;</b><br /><br />
+      <b>&lt;Frontend Developer/&gt; ↗</b><br /><br />
       Semantic HTML, modern CSS (Grid, Flexbox, custom properties) and vanilla JavaScript.
       Responsive, accessible, and shipped through GitHub.
     </td>
     <td width="33%" valign="top">
       <sub><code>02</code></sub><br />
-      <b>UX/UI Designer</b><br /><br />
+      <b>UX/UI Designer ↗</b><br /><br />
       User research, information architecture, wireframes and hi-fi prototypes in Figma,
       validated with think-aloud and 5-second tests.
     </td>
     <td width="33%" valign="top">
       <sub><code>03</code></sub><br />
-      <b>Graphic Designer</b><br /><br />
+      <b>Graphic Designer ↗</b><br /><br />
       Visual identities, layouts and typography in Photoshop, Illustrator and InDesign,
       built on a solid grid.
     </td>
@@ -78,11 +78,11 @@ Then I turn that into designs that look intentional and code that holds up.
 
 | | Project | Stack | About |
 |:-:|---|---|---|
-| 🥋 | **[Hjørring Jiu-Jitsu Klub](https://github.com/ckbreuning/hjoerring-jiu-jitsu-klub)** | HTML · CSS | Club website redesign. Sitemap and affinity diagrams, wireframes, UI design and think-aloud tests, then built in semantic HTML/CSS |
-| 🌿 | **[Lene Stegenborg](https://github.com/ckbreuning/lene-stegenborg)** | HTML · CSS · JS | Redesign for a self-employed coach and therapist, with clearer navigation, a better structure for her services and more readable layouts |
-| 🗂️ | **[Portfolio](https://github.com/ckbreuning/portfolio)** | HTML · CSS | My own portfolio, built content-first from a moodboard and style guide through a hi-fi prototype to code |
-| 🟢 | **[SGL](https://github.com/ckbreuning/sgl)** | Vue | <!-- TODO: one line about the project --> |
-| 🐘 | **[Valgfag](https://github.com/ckbreuning/valgfag)** | PHP | <!-- TODO: one line about the project --> |
+| 🗂️ | **[Portfolio](https://github.com/ckbreuning/portfolio)** · [live](https://www.ckbreuning.com) | PHP · CSS · JS · WordPress | My portfolio as a custom WordPress theme. Cases are a custom post type with ACF fields and filtering, and every push to `main` deploys to ckbreuning.com through GitHub Actions |
+| 🏆 | **[SGL](https://github.com/ckbreuning/sgl)** · [live](https://sgl.ckbreuning.com) | Vue · Vite | Results site for Supernova Gaming League, the Counter-Strike tournament organiser I co-founded in 2022. Standings, the bracket and the champion are worked out from the match data |
+| 🌿 | **[Lene Stegenborg](https://github.com/ckbreuning/lene-stegenborg)** | HTML · CSS · JS | Redesign for a coach and therapist. Her treatments are loaded from a headless WordPress via the REST API, and the FAQ is an accessible accordion |
+| 🥋 | **[Hjørring Jiu-Jitsu Klub](https://github.com/ckbreuning/hjoerring-jiu-jitsu-klub)** | HTML · CSS | Group redesign of the club's 14-page website, from sitemap and wireframes to think-aloud tests and the final HTML/CSS build |
+| 🐘 | **[Valgfag](https://github.com/ckbreuning/valgfag)** | PHP · WordPress | <!-- TODO: one line about the project --> |
 
 
 <br />
@@ -90,8 +90,8 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `05` — GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ckbreuning&show_icons=true&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckbreuning&layout=compact&hide_border=true&bg_color=060818&title_color=1ADB9E&text_color=E8EDF5&langs_count=6" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
