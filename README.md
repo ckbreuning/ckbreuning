@@ -1,26 +1,26 @@
 <!-- ───────────────────────── HEADER ───────────────────────── -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:12345A,100:2D9CDB&section=header&text=%3Cckb%2F%3E&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Christian%20Klitgaard%20Breuning&descSize=18&descAlignY=60&animation=fadeIn" alt="<ckb/> header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:060818,50:0F1228,100:1ADB9E&section=header&text=%3Cckb%2F%3E&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Christian%20Klitgaard%20Breuning&descSize=18&descAlignY=60&animation=fadeIn" alt="<ckb/> header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ckbreuning">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=3000&pause=900&color=2D9CDB&center=true&vCenter=true&width=560&lines=Designed+with+purpose.+Built+with+craft.;%3CFrontend+Developer%2F%3E;UX%2FUI+Designer;Graphic+Designer;From+pixel+to+code." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=3000&pause=900&color=1ADB9E&center=true&vCenter=true&width=560&lines=Designed+with+purpose.+Built+with+craft.;%3CFrontend+Developer%2F%3E;UX%2FUI+Designer;Graphic+Designer;From+pixel+to+code." alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multimedia_Design_Student-0B1220?style=for-the-badge&labelColor=0B1220&color=12345A" />
-  <img src="https://img.shields.io/badge/Based_in-Denmark_🇩🇰-0B1220?style=for-the-badge&labelColor=0B1220&color=12345A" />
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Freelance-5DCAA5?style=for-the-badge&labelColor=0B1220" />
+  <img src="https://img.shields.io/badge/Multimedia_Design_Student-060818?style=for-the-badge&labelColor=060818&color=0F1228" />
+  <img src="https://img.shields.io/badge/Based_in-Denmark_🇩🇰-060818?style=for-the-badge&labelColor=060818&color=0F1228" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Freelance-9B59F5?style=for-the-badge&labelColor=060818" />
 </p>
 
 <br />
 
 ## `01` — About
 
-I'm Christian. I design interfaces, build websites, and solve visual problems.
-I like structure, details, and the moment when code and design click together.
+I'm Christian. I design interfaces, build websites and solve visual problems.
+I like structure, details and the moment when code and design click together.
 
 I work **analytically**, so I figure out what users need before I open Figma or VS Code.
 Then I turn that into designs that look intentional and code that holds up.
@@ -43,18 +43,21 @@ Then I turn that into designs that look intentional and code that holds up.
   <tr>
     <td width="33%" valign="top">
       <sub><code>01</code></sub><br />
+      <img src="https://img.shields.io/badge/%3CFrontend_Developer%2F%3E-1ADB9E?style=flat-square&labelColor=060818" /><br />
       <b>&lt;Frontend Developer/&gt; ↗</b><br /><br />
-      Semantic HTML, modern CSS (Grid, Flexbox, custom properties), and vanilla JavaScript.
+      Semantic HTML, modern CSS (Grid, Flexbox, custom properties) and vanilla JavaScript.
       Responsive, accessible, and shipped through GitHub.
     </td>
     <td width="33%" valign="top">
       <sub><code>02</code></sub><br />
+      <img src="https://img.shields.io/badge/UX%2FUI_Designer-9B59F5?style=flat-square" /><br />
       <b>UX/UI Designer ↗</b><br /><br />
       User research, information architecture, wireframes and hi-fi prototypes in Figma,
       validated with think-aloud and 5-second tests.
     </td>
     <td width="33%" valign="top">
       <sub><code>03</code></sub><br />
+      <img src="https://img.shields.io/badge/Graphic_Designer-E8C840?style=flat-square" /><br />
       <b>Graphic Designer ↗</b><br /><br />
       Visual identities, layouts and typography in Photoshop, Illustrator and InDesign,
       built on a solid grid.
@@ -90,12 +93,12 @@ Then I turn that into designs that look intentional and code that holds up.
 ## `05` — GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ckbreuning&show_icons=true&hide_border=true&bg_color=0B1220&title_color=2D9CDB&icon_color=5DCAA5&text_color=C9D4E5&ring_color=2D9CDB&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckbreuning&layout=compact&hide_border=true&bg_color=0B1220&title_color=2D9CDB&text_color=C9D4E5&langs_count=6" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ckbreuning&show_icons=true&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckbreuning&layout=compact&hide_border=true&bg_color=060818&title_color=1ADB9E&text_color=E8EDF5&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ckbreuning&hide_border=true&background=0B1220&ring=2D9CDB&fire=5DCAA5&currStreakLabel=2D9CDB&sideLabels=C9D4E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7A8AA3" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=ckbreuning&hide_border=true&background=060818&ring=1ADB9E&fire=9B59F5&currStreakLabel=1ADB9E&sideLabels=E8EDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7A99" alt="Contribution streak" />
 </p>
 
 <p align="center">
@@ -110,14 +113,15 @@ Then I turn that into designs that look intentional and code that holds up.
 
 ## `06` — Let's work together
 
-I'm open to **internships, freelance projects, and collaborations**. I'd especially like to work with creative agencies and esports and tech teams.
+I'm open to **internships, freelance projects and collaborations**. I'd especially like to work with creative agencies and esports and tech teams.
 
 <p align="center">
+  <!-- Replace the # links with your portfolio and LinkedIn URLs -->
   <a href="https://www.ckbreuning.com"><img src="https://img.shields.io/badge/Portfolio-2D9CDB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/christian-breuning"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="ckbreuning@gmail.com"><img src="https://img.shields.io/badge/Email-5DCAA5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ckbreuning@gmail.com"><img src="https://img.shields.io/badge/Email-E8C840?style=for-the-badge&logo=gmail&logoColor=060818" /></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2D9CDB,50:12345A,100:0B1220&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1ADB9E,50:0F1228,100:060818&section=footer" alt="footer" />
 </p>
