@@ -10,6 +10,11 @@ on:
 permissions:
   contents: write
 
+# If you push again while a run is going, the old run is cancelled and a fresh one starts
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
 # GRS_TOKEN is a personal access token saved under Settings -> Secrets and variables -> Actions.
 # The built-in GITHUB_TOKEN cannot read your contribution history, which made every stat show 0.
 
@@ -42,4 +47,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
+          # Get any commits you pushed while this was running, then push on top of them
+          git pull --rebase origin main
           git push
