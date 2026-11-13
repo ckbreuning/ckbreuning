@@ -35,7 +35,8 @@ jobs:
           max_post_count: 4
           disable_sort: true
           template: "$newline- [**$title**]($url) · $description"
-          description_max_length: 110
+          # Keep only the first sentence of each case's excerpt
+          item_exec: "post.description = ((post.description || '').match(/^[\\s\\S]*?[.!?](?=\\s|$)/) || [post.description || ''])[0].trim()"
           tag_post_pre_newline: true
           enable_keepalive: false
           skip_commit: true
