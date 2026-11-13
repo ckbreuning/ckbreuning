@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs&contribs_include_own_repos=true&hide=stars,prs,issues,contribs&hide_rank=true&number_format=long&hide_border=true&bg_color=060818&title_color=1ADB9E&icon_color=9B59F5&text_color=E8EDF5&ring_color=1ADB9E&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GRS_TOKEN }}
 
