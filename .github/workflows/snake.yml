@@ -1,5 +1,3 @@
-# Save as .github/workflows/snake.yml in your ckbreuning/ckbreuning repo.
-# Generates the contribution snake in your portfolio colours every night.
 name: Generate snake
 
 on:
@@ -19,6 +17,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The built-in token can't read your contribution calendar, so the grid came out empty
+          github_token: ${{ secrets.GRS_TOKEN }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#1ADB9E&color_dots=#0F1228,#0E5A47,#12A57A,#1ADB9E,#7DFFD3
             dist/snake-light.svg?color_snake=#1ADB9E&color_dots=#EBEDF0,#B8F2DF,#5FE6B9,#1ADB9E,#0F1228
