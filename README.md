@@ -43,21 +43,18 @@ Then I turn that into designs that look intentional and code that holds up.
   <tr>
     <td width="33%" valign="top">
       <sub><code>01</code></sub><br />
-      <img src="https://img.shields.io/badge/%3CFrontend_Developer%2F%3E-1ADB9E?style=flat-square&labelColor=060818" /><br />
       <b>&lt;Frontend Developer/&gt; ↗</b><br /><br />
       Semantic HTML, modern CSS (Grid, Flexbox, custom properties) and vanilla JavaScript.
       Responsive, accessible, and shipped through GitHub.
     </td>
     <td width="33%" valign="top">
       <sub><code>02</code></sub><br />
-      <img src="https://img.shields.io/badge/UX%2FUI_Designer-9B59F5?style=flat-square" /><br />
       <b>UX/UI Designer ↗</b><br /><br />
       User research, information architecture, wireframes and hi-fi prototypes in Figma,
       validated with think-aloud and 5-second tests.
     </td>
     <td width="33%" valign="top">
       <sub><code>03</code></sub><br />
-      <img src="https://img.shields.io/badge/Graphic_Designer-E8C840?style=flat-square" /><br />
       <b>Graphic Designer ↗</b><br /><br />
       Visual identities, layouts and typography in Photoshop, Illustrator and InDesign,
       built on a solid grid.
