@@ -24,6 +24,22 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # Pulls your newest cases from ckbreuning.com into the README.
+      # It runs first because it does a git pull, which fails once other steps have changed files.
+      # continue-on-error: if the site is down, the cards still get updated.
+      - name: Latest cases from ckbreuning.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
+        with:
+          feed_list: "https://www.ckbreuning.com/work/feed/"
+          max_post_count: 4
+          disable_sort: true
+          template: "$newline- [**$title**]($url) · $description"
+          description_max_length: 110
+          tag_post_pre_newline: true
+          enable_keepalive: false
+          skip_commit: true
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -48,21 +64,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GRS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
-
-      # Pulls your newest cases from ckbreuning.com into the README.
-      # continue-on-error: if the site is down, the cards still get updated.
-      - name: Latest cases from ckbreuning.com
-        uses: gautamkrishnar/blog-post-workflow@v1
-        continue-on-error: true
-        with:
-          feed_list: "https://www.ckbreuning.com/work/feed/"
-          max_post_count: 4
-          disable_sort: true
-          template: "$newline- [**$title**]($url) · $description"
-          description_max_length: 110
-          tag_post_pre_newline: true
-          enable_keepalive: false
-          skip_commit: true
 
       - name: Commit cards
         run: |
