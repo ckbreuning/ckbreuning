@@ -44,8 +44,8 @@ Then I turn that into designs that look intentional and code that holds up.
     <td width="33%" valign="top">
       <sub><code>01</code></sub><br />
       <b>&lt;Frontend Developer/&gt; ↗</b><br /><br />
-      Semantic HTML, modern CSS (Grid, Flexbox, custom properties) and vanilla JavaScript.
-      Responsive, accessible, and shipped through GitHub.
+      Semantic HTML, modern CSS (Grid, Flexbox, custom properties), JavaScript and Vue with Pinia,
+      plus custom WordPress themes. Responsive, accessible, and shipped through GitHub.
     </td>
     <td width="33%" valign="top">
       <sub><code>02</code></sub><br />
@@ -56,7 +56,7 @@ Then I turn that into designs that look intentional and code that holds up.
     <td width="33%" valign="top">
       <sub><code>03</code></sub><br />
       <b>Graphic Designer ↗</b><br /><br />
-      Visual identities, layouts and typography in Photoshop, Illustrator and InDesign,
+      Visual identities, layouts and typography in Photoshop, Illustrator and Affinity,
       built on a solid grid.
     </td>
   </tr>
@@ -84,7 +84,6 @@ Then I turn that into designs that look intentional and code that holds up.
 | 🏆 | **[SGL](https://github.com/ckbreuning/sgl)** · [live](https://sgl.ckbreuning.com) | Vue · Vite | Results site for Supernova Gaming League, the Counter-Strike tournament organiser I co-founded in 2022. Standings, the bracket and the champion are worked out from the match data |
 | 🌿 | **[Lene Stegenborg](https://github.com/ckbreuning/lene-stegenborg)** | HTML · CSS · JS | Redesign for a coach and therapist. Her treatments are loaded from a headless WordPress via the REST API, and the FAQ is an accessible accordion |
 | 🥋 | **[Hjørring Jiu-Jitsu Klub](https://github.com/ckbreuning/hjoerring-jiu-jitsu-klub)** | HTML · CSS | Group redesign of the club's 14-page website, from sitemap and wireframes to think-aloud tests and the final HTML/CSS build |
-| 🐘 | **[Valgfag](https://github.com/ckbreuning/valgfag)** | PHP · WordPress | <!-- TODO: one line about the project --> |
 
 #### Latest from [ckbreuning.com](https://www.ckbreuning.com/work/)
 <!-- BLOG-POST-LIST:START -->
