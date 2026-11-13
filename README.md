@@ -93,6 +93,12 @@ Then I turn that into designs that look intentional and code that holds up.
 - [**Hjørring Jiu-Jitsu Klub**](https://www.ckbreuning.com/work/hjorring-jiu-jitsu-klub/) · A full redesign for Denmark’s oldest jiu-jitsu club, from user interviews to a tested, coded website.
 <!-- BLOG-POST-LIST:END -->
 
+#### Lighthouse scores
+<p align="center">
+  <img src="./profile/lighthouse-portfolio.svg" alt="Lighthouse scores for ckbreuning.com" />
+  <img src="./profile/lighthouse-sgl.svg" alt="Lighthouse scores for sgl.ckbreuning.com" />
+</p>
+
 <br />
 
 ## `05` — GitHub stats
@@ -128,6 +134,10 @@ I'm open to **internships, freelance projects and collaborations**. I'd especial
   <a href="https://www.ckbreuning.com"><img src="https://img.shields.io/badge/Portfolio-1ADB9E?style=for-the-badge&logo=googlechrome&logoColor=060818" /></a>
   <a href="https://www.linkedin.com/in/christian-breuning"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ckbreuning@gmail.com"><img src="https://img.shields.io/badge/Email-E8C840?style=for-the-badge&logo=gmail&logoColor=060818" /></a>
+</p>
+
+<p align="center">
+  <sub><!-- LAST-UPDATED -->Last updated 13 Nov 2026<!-- /LAST-UPDATED --> · cards, graphs and cases refresh daily with GitHub Actions</sub>
 </p>
 
 <p align="center">
