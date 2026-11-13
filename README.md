@@ -86,6 +86,9 @@ Then I turn that into designs that look intentional and code that holds up.
 | 🥋 | **[Hjørring Jiu-Jitsu Klub](https://github.com/ckbreuning/hjoerring-jiu-jitsu-klub)** | HTML · CSS | Group redesign of the club's 14-page website, from sitemap and wireframes to think-aloud tests and the final HTML/CSS build |
 | 🐘 | **[Valgfag](https://github.com/ckbreuning/valgfag)** | PHP · WordPress | <!-- TODO: one line about the project --> |
 
+#### Latest from [ckbreuning.com](https://www.ckbreuning.com/work/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
@@ -98,6 +101,10 @@ Then I turn that into designs that look intentional and code that holds up.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ckbreuning&hide_border=true&background=060818&ring=1ADB9E&fire=9B59F5&currStreakLabel=1ADB9E&sideLabels=E8EDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7A99" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-ckb.svg" alt="3D contribution graph" />
 </p>
 
 <p align="center">
