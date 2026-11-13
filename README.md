@@ -1,6 +1,6 @@
 <!-- ───────────────────────── HEADER ───────────────────────── -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:060818,50:0F1228,100:1ADB9E&section=header&text=%3Cckb%2F%3E&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Christian%20Klitgaard%20Breuning&descSize=18&descAlignY=60&animation=fadeIn" alt="<ckb/> header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:060818,50:0F1228,100:1ADB9E&section=header&text=%3Cckb%2F%3E&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Christian%20Klitgaard%20Breuning&descSize=28&descAlignY=63&animation=fadeIn" alt="<ckb/> header" />
 </p>
 
 <p align="center">
