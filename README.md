@@ -137,7 +137,7 @@ I'm open to **internships, freelance projects and collaborations**. I'd especial
 </p>
 
 <p align="center">
-  <sub><!-- LAST-UPDATED -->Last updated 13 Nov 2026<!-- /LAST-UPDATED --> · cards, graphs and cases refresh daily with GitHub Actions</sub>
+  <sub><!-- LAST-UPDATED -->Last updated 14 Nov 2026<!-- /LAST-UPDATED --> · cards, graphs and cases refresh daily with GitHub Actions</sub>
 </p>
 
 <p align="center">
